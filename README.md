@@ -4,9 +4,9 @@
 
 * Python 3.6
 * [Selenium 3.6.0](https://pypi.python.org/pypi/selenium)
-* [Chromedriver](https://sites.google.com/a/chromium.org/chromedriver/downloads)
+* [chromedriver](https://sites.google.com/a/chromium.org/chromedriver/downloads)
 
-After installing chromedriver, be sure to add it to your PATH.
+After installing [chromedriver](https://sites.google.com/a/chromium.org/chromedriver/downloads), be sure to add it to your PATH.
 
 ```
 exports PATH=$PATH:/path/to/chromedriver

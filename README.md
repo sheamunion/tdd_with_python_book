@@ -14,7 +14,7 @@ exports PATH=$PATH:/path/to/chromedriver
 
 ## Starting the app
 
-From Django project root, the `superlists` directory, make migrations and migrate:
+From Django project root, make migrations and migrate:
 
 ```
 python3 manage.py makemigrations

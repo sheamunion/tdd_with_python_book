@@ -14,7 +14,7 @@ exports PATH=$PATH:/path/to/chromedriver
 
 ## Starting the app
 
-From superlists directory, make migrations and migrate:
+From Django project root, the `superlists` directory, make migrations and migrate:
 
 ```
 python3 manage.py makemigrations
@@ -31,7 +31,7 @@ Navigate to [http://localhost:8000](http://localhost:8000).
 
 ## Run all the tests
 
-From the `superlists` directory:
+From the Django project root:
 
 ```
 python3 manage.py test
